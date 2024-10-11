@@ -11,4 +11,4 @@
 ![Example](/Images/Unity/UnityOpener/image1.png)
 
 Atajo simple para abrir el editor de unity con su versión adecuada al proyecto escribiendo `unity .` en la terminal o la
-barra de direcciones. [Ver Más](UnityOpener).
+barra de direcciones. [Ver Más](https://github.com/GerardGascon/UnityOpener).
