@@ -1,0 +1,3 @@
+[submodule "Unity/UnityOpener"]
+	path = Unity/UnityOpener
+	url = https://github.com/GerardGascon/UnityOpener.git
